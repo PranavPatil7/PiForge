@@ -3,7 +3,7 @@ In this repository, I document my endeavor to construct a scalable high-performa
 The knowledge gained from this tutorial aims to assist you in building your own functional HPC cluster, capable of accommodating hundreds of compute nodes, and supporting both web-based (e.g. jupyterhub) and command-line interfaces.
 
 <!-- ![Raspberry Pi cluster](docs/raspi_cluster.JPG) -->
-<img src="docs/raspi_cluster3.JPG" alt="drawing" width="500"/>
+<img src="examples/raspi_cluster3.JPG" alt="drawing" width="500"/>
 
 
 ## Implemented Features
@@ -418,10 +418,10 @@ mpirun mpi_example.x  # mpirun works as well
 
 ## Snapshots
 
-<img src="docs/login.png" alt="drawing" width="600"/>
+<img src="examples//login.png" alt="drawing" width="600"/>
 
-<img src="docs/profile.png" alt="drawing" width="600"/>
+<img src="examples//profile.png" alt="drawing" width="600"/>
 
-<img src="docs/launcher.png" alt="drawing" width="600"/>
+<img src="examples//launcher.png" alt="drawing" width="600"/>
 
-<img src="docs/batch.png" alt="drawing" width="600"/>
+<img src="examples//batch.png" alt="drawing" width="600"/>
