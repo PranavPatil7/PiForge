@@ -1,4 +1,4 @@
-# Raspberry-Pi HPC Cluster
+# PiForge – Modular HPC Cluster Engineering on Raspberry Pi                                                  
 In this repository, I document my endeavor to construct a scalable high-performance computing (HPC) cluster using [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi), specifically tailored for data science applications. 
 The knowledge gained from this tutorial aims to assist you in building your own functional HPC cluster, capable of accommodating hundreds of compute nodes, and supporting both web-based (e.g. jupyterhub) and command-line interfaces.
 
